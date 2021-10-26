@@ -1,3 +1,3 @@
-variable "eq_secrets_file" {
-    default = "secrets.yml"    string: "secrets.yml"
+variable "eq_secrets_file_path" {
+  default = "/secrets"
 }
