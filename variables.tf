@@ -1,3 +1,3 @@
-variable "eq_secrets_file_path" {
-  default = "/secrets"
+variable "secrets_file_path" {
+  default = "/secrets_files"
 }
