@@ -1,4 +1,4 @@
-variable "secr_file_path" {
-  default = "/secrs_files"
+variable "secret_file_path" {
+  default = "/secret_files"
   sensitive = True
 }
